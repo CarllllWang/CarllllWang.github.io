@@ -36,7 +36,9 @@
         "Interpretable e-commerce relevance modeling",
         "LLM knowledge distillation for retrieval",
         "Multi-modal and chain-of-thought reasoning"
-      ]
+      ],
+      "startDate": "2024.3",
+      "endDate": "Present"
     }
   ],
   "education": [
@@ -44,14 +46,16 @@
       "institution": "Tianjin University",
       "location": "Tianjin, China",
       "url": "http://www.tju.edu.cn/",
-      "area": "Computer Science / Knowledge Representation",
-      "studyType": "Graduate Research",
+      "area": "Computer Science",
+      "studyType": "Master's Degree",
       "courses": [],
       "highlights": [
         "Knowledge hypergraph link prediction",
         "Position-aware and time-aware embedding models",
         "Explainable reasoning over hyper-relational knowledge"
-      ]
+      ],
+      "startDate": "2021.9",
+      "endDate": "2024.3"
     }
   ],
   "publications": [
