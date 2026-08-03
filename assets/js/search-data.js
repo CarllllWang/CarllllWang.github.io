@@ -398,16 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-explainable-link-prediction-in-knowledge-hypergraphs-accepted-at-cikm-2022-ccf-b",
+          title: 'Explainable Link Prediction in Knowledge Hypergraphs accepted at CIKM 2022 (CCF-B).',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-work-poskhg-on-position-aware-knowledge-hypergraph-link-prediction-appeared-in-data-science-and-engineering",
+          title: 'Our work PosKHG on position-aware knowledge hypergraph link prediction appeared in Data Science...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-two-papers-accepted-at-sigir-2026-ccf-a-star-on-interpretable-e-commerce-relevance-and-trace-on-multi-modal-relevance-distillation-tada",
+          title: 'Two papers accepted at SIGIR 2026 (CCF-A): STAR on interpretable e-commerce relevance and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
