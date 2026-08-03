@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-06-01 09:00:00+0800
+date: 2024-08-01 09:00:00+0800
 inline: true
 related_posts: false
 ---
 
-Our work _PosKHG_ on position-aware knowledge hypergraph link prediction appeared in _Data Science and Engineering_.
+_HJE_ on joint convolutional representation learning for knowledge hypergraph completion published in **IEEE TKDE** (CCF-A).

@@ -2,6 +2,14 @@
   url: https://sigir.org/
   color: "#b31b1b"
 
+"WWW":
+  url: https://www2023.thewebconf.org/
+  color: "#a64d00"
+
+"TKDE":
+  url: https://www.computer.org/csdl/journal/tk
+  color: "#1a5276"
+
 "CIKM":
   url: https://www.cikm.org/
   color: "#0b5394"
