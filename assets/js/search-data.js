@@ -398,11 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-explainable-link-prediction-in-knowledge-hypergraphs-accepted-at-cikm-2022-ccf-b",
-          title: 'Explainable Link Prediction in Knowledge Hypergraphs accepted at CIKM 2022 (CCF-B).',
+            },},{id: "news-hyconve-on-convolutional-knowledge-hypergraph-link-prediction-accepted-at-www-2023-ccf-a",
+          title: 'HyConvE on convolutional knowledge hypergraph link prediction accepted at WWW 2023 (CCF-A).',
           description: "",
-          section: "News",},{id: "news-our-work-poskhg-on-position-aware-knowledge-hypergraph-link-prediction-appeared-in-data-science-and-engineering",
-          title: 'Our work PosKHG on position-aware knowledge hypergraph link prediction appeared in Data Science...',
+          section: "News",},{id: "news-hje-on-joint-convolutional-representation-learning-for-knowledge-hypergraph-completion-published-in-ieee-tkde-ccf-a",
+          title: 'HJE on joint convolutional representation learning for knowledge hypergraph completion published in IEEE...',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-at-sigir-2026-ccf-a-star-on-interpretable-e-commerce-relevance-and-trace-on-multi-modal-relevance-distillation-tada",
           title: 'Two papers accepted at SIGIR 2026 (CCF-A): STAR on interpretable e-commerce relevance and...',
