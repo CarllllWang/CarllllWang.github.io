@@ -31,4 +31,4 @@ I am a Senior Algorithm Engineer at [Alibaba Group](https://www.alibabagroup.com
 
 Before joining industry, I studied at [Tianjin University](http://www.tju.edu.cn/), where my research centered on knowledge hypergraphs and link prediction — including position-aware embedding models and explainable, time-aware reasoning over hyper-relational knowledge. That background in structured knowledge representation continues to shape how I think about relevance and reasoning today.
 
-My interests sit at the intersection of information retrieval, large language models and agents, and knowledge representation. You can find my publications below, or reach me any time at <a href="mailto:carl.wcx@taobao.com">carl.wcx@taobao.com</a>.
+My interests sit at the intersection of large language models and agents, information retrieval, and search relevance. You can find my publications below, or reach me any time at <a href="mailto:carl.wcx@taobao.com">carl.wcx@taobao.com</a>.
