@@ -1,9 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"SIGIR":
+  url: https://sigir.org/
+  color: "#b31b1b"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CIKM":
+  url: https://www.cikm.org/
+  color: "#0b5394"
 
-"Vision":
-  color: "#009f36"
+"DASFAA":
+  url: https://dasfaa.org/
+  color: "#38761d"
+
+"DSE":
+  url: https://www.springer.com/journal/41019
+  color: "#674ea7"
+
+"IJSI":
+  url: http://www.ijsi.org/
+  color: "#7f6000"

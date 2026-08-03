@@ -30,8 +30,9 @@
       "name": "Alibaba Group",
       "position": "Senior Algorithm Engineer",
       "location": "Hangzhou, China",
-      "summary": "Research and engineering on large-scale e-commerce relevance and search, focusing on interpretable relevance models, reinforcement learning, and knowledge distillation from large language models into production retrieval systems.",
+      "summary": "Research and engineering on large-scale e-commerce relevance, search, and AI-driven inquiry. Building LLM-powered knowledge bases and multi-agent (sub-agent) systems, and developing interpretable relevance models via reinforcement learning and knowledge distillation from large language models.",
       "highlights": [
+        "AI Inquiry: LLM knowledge bases and multi-agent systems",
         "Interpretable e-commerce relevance modeling",
         "LLM knowledge distillation for retrieval",
         "Multi-modal and chain-of-thought reasoning"
