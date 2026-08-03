@@ -57,15 +57,33 @@
   "publications": [
     {
       "name": "STAR: Staged Training with Aligned Reinforcement Learning and Multi-Faceted Distillation for Interpretable E-commerce Relevance",
-      "publisher": "ACM SIGIR 2026",
+      "publisher": "ACM SIGIR 2026 (CCF-A)",
       "releaseDate": "2026",
       "url": "https://doi.org/10.1145/3805712.3808444"
     },
     {
       "name": "TRACE: Term-level Reasoning And Chain-of-thought Enhanced Distillation for E-commerce Multi-modal Relevance Learning",
-      "publisher": "ACM SIGIR 2026",
+      "publisher": "ACM SIGIR 2026 (CCF-A)",
       "releaseDate": "2026",
       "url": "https://doi.org/10.1145/3805712.3808468"
+    },
+    {
+      "name": "HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion",
+      "publisher": "IEEE TKDE 2024 (CCF-A)",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1109/TKDE.2024.3365727"
+    },
+    {
+      "name": "HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks",
+      "publisher": "ACM WWW 2023 (CCF-A)",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1145/3543507.3583256"
+    },
+    {
+      "name": "EnhancE: Enhanced Entity and Relation Embedding for Knowledge Hypergraph Link Prediction",
+      "publisher": "ACM WWW 2023 Companion",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1145/3543873.3587326"
     },
     {
       "name": "PosKHG: A Position-Aware Knowledge Hypergraph Model for Link Prediction",
@@ -75,7 +93,7 @@
     },
     {
       "name": "POSE: A Positional Embedding Model for Knowledge Hypergraph Link Prediction",
-      "publisher": "DASFAA (LNCS)",
+      "publisher": "DASFAA 2023 (CCF-B)",
       "releaseDate": "2023",
       "url": "https://doi.org/10.1007/978-3-031-25198-6_25"
     },
@@ -87,7 +105,7 @@
     },
     {
       "name": "Explainable Link Prediction in Knowledge Hypergraphs",
-      "publisher": "ACM CIKM 2022",
+      "publisher": "ACM CIKM 2022 (CCF-B)",
       "releaseDate": "2022",
       "url": "https://doi.org/10.1145/3511808.3557316"
     }
