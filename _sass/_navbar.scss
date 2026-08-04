@@ -188,3 +188,30 @@
     color: var(--global-hover-color);
   }
 }
+
+.lang-switch {
+  display: flex;
+  align-items: center;
+
+  .lang-link {
+    display: inline;
+    padding: 0 0.15rem;
+    color: var(--global-text-color);
+    opacity: 0.6;
+
+    &.active {
+      opacity: 1;
+      font-weight: bold;
+      color: var(--global-theme-color);
+    }
+
+    &:hover {
+      opacity: 1;
+      color: var(--global-hover-color);
+    }
+  }
+
+  .lang-sep {
+    opacity: 0.4;
+  }
+}

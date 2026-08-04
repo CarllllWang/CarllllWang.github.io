@@ -125,6 +125,23 @@
               </button>
             </li>
           {% endif %}
+          {% if site.languages and site.languages.size > 1 %}
+            <!-- Language switcher -->
+            <li class="nav-item lang-switch">
+              {% for lang in site.languages %}
+                {% if lang == "en" %}{% assign lang_url = site.url | append: "/" %}
+                {% else %}{% assign lang_url = site.url | append: "/" | append: lang | append: "/" %}
+                {% endif %}
+                <a
+                  class="nav-link lang-link{% if lang == site.active_lang %} active{% endif %}"
+                  href="{{ lang_url }}"
+                >
+                  {{- site.lang_switch_label[lang] | default: lang | upcase -}}
+                </a>
+                {% unless forloop.last %}<span class="lang-sep">/</span>{% endunless %}
+              {% endfor %}
+            </li>
+          {% endif %}
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">

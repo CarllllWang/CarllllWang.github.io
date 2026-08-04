@@ -18,6 +18,19 @@ keywords: Chenxu Wang, e-commerce relevance, LLM distillation, knowledge hypergr
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🔬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
+# -----------------------------------------------------------------------------
+# Multi-language (jekyll-polyglot)
+# -----------------------------------------------------------------------------
+languages: ["en", "zh"]
+default_lang: "en"
+exclude_from_localization: ["assets", "javascript", "images", "css", "public"]
+# jekyll-scholar's {% bibliography %} tag is not thread-safe, so parallel
+# localization must be disabled to keep the publications page building.
+parallel_localization: false
+lang_switch_label:
+  en: "EN"
+  zh: "中文"
+
 url: https://carllllwang.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
@@ -221,6 +234,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-polyglot
   - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap

@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+lang: en
 subtitle: Senior Algorithm Engineer, <a href='https://www.alibabagroup.com/'>Alibaba Group</a>.
 
 profile:
