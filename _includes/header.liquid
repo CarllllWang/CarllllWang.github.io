@@ -134,7 +134,7 @@
                 {% endif %}
                 <a
                   class="nav-link lang-link{% if lang == site.active_lang %} active{% endif %}"
-                  href="{{ lang_url }}"
+                  {% static_href %}href="{{ lang_url }}"{% endstatic_href %}
                 >
                   {{- site.lang_switch_label[lang] | default: lang | upcase -}}
                 </a>
