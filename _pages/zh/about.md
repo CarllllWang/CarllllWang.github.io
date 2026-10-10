@@ -13,9 +13,10 @@ profile:
     <p>阿里巴巴集团</p>
     <p>中国·杭州</p>
     <p>carl.wcx@taobao.com</p>
+    <p><a href="https://scholar.google.com/citations?user=npZ2lGYAAAAJ">Google Scholar</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true # includes social icons below the profile introduction
 
 announcements:
   enabled: true # includes a list of news items
